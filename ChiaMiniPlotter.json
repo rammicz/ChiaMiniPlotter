@@ -1,0 +1,22 @@
+{
+    "chiaPath": "C:\\Users\\rammi\\AppData\\Local\\chia-blockchain\\app-1.1.2\\resources\\app.asar.unpacked\\daemon\\chia",
+    "plotters": [
+	{
+            "ssd": "D",
+            "plotters": 3,
+            "spinupMinutes": 110,
+            "ram" : 4000,
+            "threads": 4
+        },       
+        {
+            "ssd": "F",
+            "plotters": 4,
+            "spinupMinutes": 90,
+            "ram" : 4000,
+            "threads": 4
+        }
+    ],
+    "targets":[
+        "I:\\chiaplot"
+    ]
+}
