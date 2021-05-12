@@ -1,14 +1,12 @@
-***************************************************
-*       ChiaMiniPlotter.ps1  by  JIRI HERNIK      *
-*                                                 *
-* Need help setting up your own plotting machine? *
-*     Contact me on on rammi.cz@gmail.com         *
-*                                                 *
-*   Have you farmed some Chia with this script?   *
-*   It costed me a blood and tears to write it.   *
-*       Please consider even small donation.      *
-*                                                 *
-***************************************************
+*ChiaMiniPlotter.ps1  by  JIRI HERNIK*
+
+Need help setting up your own plotting machine?
+    Contact me on on rammi.cz@gmail.com        
+
+Have you farmed some Chia with this script?
+It have cost me a blood and tears to write it. 
+
+Please consider even small donation.
 
 Donation addresses:
 XCH: xch1jen5pdwk8gh2cvntkk2rctzs4fl5gda2p39kzyavg778alpaxxzsje7t3u" 
