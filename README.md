@@ -35,6 +35,11 @@ https://github.com/PowerShell/PowerShell/tags
 
 6. Wait until all your drives are full of chia plots.
 
+
+*Details on config file*
+ - "ssd" : letter of the disk which will be used primarily for this plotter (UPPERCASE)
+ - "ssd2" : optional field specifying the letter of the second temp location (UPPERCASE)
+
 *More details of inner working*
  - Plotters are spinned up on each SSD with the minimal time difference of "spinupMinutes".
  - The settings in the .json file are reloaded periodically, so you don't need to restart the script for changing the settings.
