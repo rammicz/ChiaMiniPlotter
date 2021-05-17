@@ -46,6 +46,7 @@ function ChiaMiniPlotter()
         }
 
         $chiaPath = $configJson.chiaPath
+
         if($target -eq "" -or (checkSpace -path $target -minimalFreeSpace 1000) -eq $false )
         {
             foreach($checkTarget in $configJson.targets)
@@ -60,6 +61,7 @@ function ChiaMiniPlotter()
                     break
                 }else {
                     Write-Host "Not enough space on target"
+                    $target = ""
                 }
             }
         }
