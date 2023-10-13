@@ -3,16 +3,6 @@
 Need help setting up your own plotting machine?
     Contact me on on rammi.cz@gmail.com        
 
-Have you farmed some Chia with this script?
-It have cost me a blood and tears to write it. 
-
-Please consider even small donation.
-
-Donation addresses:
-XCH: xch1jen5pdwk8gh2cvntkk2rctzs4fl5gda2p39kzyavg778alpaxxzsje7t3u" 
-LTC: ltc1qax73qnnn2dd0e3e5htgluawun7kvrq60nwr62w"
-BTC: bc1qh7urn8upqn9cue9450f563ez4krncz7qa3cge2"
-
 Powershell script to make chia plotting on Windows more enjoyable.
 
 *Quick start guide:*
